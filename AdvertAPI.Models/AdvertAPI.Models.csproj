@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <Authors>Maiur Laximidas</Authors>
+    <Company />
+    <Product>Web Advert Microservice</Product>
+    <PackageProjectUrl />
+  </PropertyGroup>
+
+</Project>
